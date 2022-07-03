@@ -1,0 +1,197 @@
+#title{
+    background-color: white;
+}
+
+.mount{
+ float: left;
+ padding-right: 20px;
+}
+
+.container-fluid{
+padding:3% 13%
+
+}
+
+.navbar {
+    padding-left: 50px;
+  }
+
+  .navbar-brand {
+    font-family: 'Rubik Moonrocks', cursive;
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-item {
+    padding: 0 18px;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+    font-family: 'Sigmar One', cursive;
+  }
+
+  .cloud{
+    opacity: 0.4;
+    margin-bottom: 160px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    display: inline-flex;
+  }
+
+  .lady{
+    opacity: 0.6;
+  }
+  .flower{
+    opacity:0.6;
+    float: right;
+   margin-bottom:50px;
+ 
+
+  }
+
+  .p1{
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+  }
+
+  #about{
+    background-color:white;
+    color: black;
+  }
+
+  .list{
+  font-size: large;
+  }
+  h5{
+    color:white;
+    font-family: 'Concert One', cursive;
+    
+  }
+  
+  h2{
+    font-family: 'Concert One', cursive;
+    font-size: 70px;
+    color: #FFA500;
+  }
+
+h3{
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+}
+
+  #h51{
+    font-size: 30px;
+  }
+  #intrest{
+    color: black;
+  }
+
+  #features {
+    position: relative;
+  }
+  
+  .feature-title {
+    font-size: 1.5rem;
+  }
+  
+  .feature-box {
+    padding: 4.5%;
+  }
+  
+  .icon {
+    color: black;
+    margin-bottom: 1rem;
+  }
+  
+  .icon:hover {
+    color: white;
+  }
+  
+  p{
+    font-size: large;
+    font-family: 'Varela Round', sans-serif;
+  }
+
+  .table{
+    padding-left: 50px;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-style:solid ;
+   border-color: black;
+    color: white;
+
+    
+  }
+  th,td{
+    border:1px,solid
+  }
+
+  h4{
+    text-align: center;
+    color:white;
+    font-family: 'Concert One', cursive;
+    
+  }
+
+  #education{
+   background-color:  #FBB454;
+  }
+
+ #con{
+  text-align: center;
+  font-family: 'Varela Round', sans-serif;
+
+ }
+
+ .btn {
+  background: #121212;
+  background-image: -webkit-linear-gradient(top, #121212, #0e0f0f);
+  background-image: -moz-linear-gradient(top, #121212, #0e0f0f);
+  background-image: -ms-linear-gradient(top, #121212, #0e0f0f);
+  background-image: -o-linear-gradient(top, #121212, #0e0f0f);
+  background-image: linear-gradient(to bottom, #121212, #0e0f0f);
+  -webkit-border-radius: 42;
+  -moz-border-radius: 42;
+  border-radius: 42px;
+  font-family: Arial;
+  color: #fafafa;
+  font-size: 14px;
+  padding: 11px 20px 10px 20px;
+  border: solid #0d0d0d 1px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #faa005;
+  background-image: -webkit-linear-gradient(top, #faa005, #e8940c);
+  background-image: -moz-linear-gradient(top, #faa005, #e8940c);
+  background-image: -ms-linear-gradient(top, #faa005, #e8940c);
+  background-image: -o-linear-gradient(top, #faa005, #e8940c);
+  background-image: linear-gradient(to bottom, #faa005, #e8940c);
+  text-decoration: none;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+@media (max-width: 1028px) {
+
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+}
+
+.footer{
+
+background-color: #faa005;
+text-align: center;
+}
